@@ -1,4 +1,3 @@
-<script type="text/javascript">//<![CDATA[ 
 (function() {
     var configuration = {
     "token": "0499e9363aa4cd24e2b5bb7b7c6b1419",
@@ -24,4 +23,3 @@
     var entry = document.getElementsByTagName('script')[0];
     entry.parentNode.insertBefore(script, entry);
 })();
-//]]></script>
